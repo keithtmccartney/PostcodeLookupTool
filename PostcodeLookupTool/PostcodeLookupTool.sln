@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29827.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostcodeLookupTool", "PostcodeLookupTool\PostcodeLookupTool.csproj", "{60C9D9B3-737E-41E6-A962-793FCCF8CD1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostcodeLookupTool.Tests", "PostcodeLookupTool.Tests\PostcodeLookupTool.Tests.csproj", "{F361EB4E-D9B2-4E41-82C4-819D81EC1940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostcodeLookupTool.UX", "PostcodeLookupTool.UX\PostcodeLookupTool.UX.csproj", "{DF968C21-2CE4-4438-86FA-E125F54C55D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60C9D9B3-737E-41E6-A962-793FCCF8CD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C9D9B3-737E-41E6-A962-793FCCF8CD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C9D9B3-737E-41E6-A962-793FCCF8CD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C9D9B3-737E-41E6-A962-793FCCF8CD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F361EB4E-D9B2-4E41-82C4-819D81EC1940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F361EB4E-D9B2-4E41-82C4-819D81EC1940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F361EB4E-D9B2-4E41-82C4-819D81EC1940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F361EB4E-D9B2-4E41-82C4-819D81EC1940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF968C21-2CE4-4438-86FA-E125F54C55D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF968C21-2CE4-4438-86FA-E125F54C55D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF968C21-2CE4-4438-86FA-E125F54C55D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF968C21-2CE4-4438-86FA-E125F54C55D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0914F6FF-8354-41F9-AD29-6768CBF407F2}
+	EndGlobalSection
+EndGlobal
